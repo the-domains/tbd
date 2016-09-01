@@ -1,0 +1,14 @@
+layout_spectrum: 0.7898121
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0.7867383
+  brandColors:
+    - '#FFFFFF'
+    - '#B4D0FF'
+    - '#22332B'
+    - '#010204'
+    - '#585F37'
+  rhythmicContrast: 1
+typography_spectrum: 0.6142979
+name: Tba
